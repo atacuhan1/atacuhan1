@@ -13,6 +13,7 @@
 
 | | |
 | --- | --- |
+| [salon-ai-agent](https://github.com/atacuhan1/salon-ai-agent) | AI booking assistant for nail and beauty salons (WhatsApp and web chat) |
 | [basicbanking](https://github.com/atacuhan1/basicbanking) | Console banking system in C |
 | [shoppingcentre](https://github.com/atacuhan1/shoppingcentre) | Shopping-centre manager in C++ |
 | [battleshipgame](https://github.com/atacuhan1/battleshipgame) | Two-player fleet battle in C++ |
